@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=calinix
+Description=Plymouth for Calinix
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/calinix
+ScriptFile=/usr/share/plymouth/themes/calinix/calinix.script

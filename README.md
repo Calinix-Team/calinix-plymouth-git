@@ -1,0 +1,1 @@
+# CalinixOS Plymouth Config files
